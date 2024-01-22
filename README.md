@@ -6,7 +6,9 @@ require keyword, createInterface function that can take in objects
 
 
 #Breakdown of steps to achieve this
+
 ##TODO
+
 1. Make a prompt
 2. ist the product we have available.
 3. Ask user if they would like to make selections or add items to their cart.
